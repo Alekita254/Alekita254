@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekita254&label=Profile%20views&color=0e75b6&style=flat" alt="alekita254" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **School Management System**
+- 🔭 I’m currently working on **Help desk v4 system**
 
-- 🌱 I’m currently learning **AI, APIs Intergration in python**
+- 🌱 I’m currently learning **Data-Recovery, cloud computing, linux and IOT**
 
-- 👯 Progress in progress **Chaffcutter Safeguard gadget**
+- 👯 Progress in progress **Chaffcutter Safeguard gadget and School Attendance System**
 
 - 🤝 [https://github.com/Alekita254?tab=repositories](https://github.com/Alekita254?tab=repositories)
 
