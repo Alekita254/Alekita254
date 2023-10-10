@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekita254&label=Profile%20views&color=0e75b6&style=flat" alt="alekita254" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Help desk v4 system**
+- 🔭 I’m currently working on **Software development**
 
 - 🌱 I’m currently learning **Data-Recovery, cloud computing, linux and IOT**
 
